@@ -70,4 +70,6 @@ minerProxy.exe -pool ssl://asia2.ethermine.org:5555 -port 15555
 可接定制软件
 ```
 
+```bigquery
 群号：882418251
+```
