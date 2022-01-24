@@ -1,6 +1,3 @@
-# minerProxy
-![img.png](img.png)
-![img_4.png](img_4.png)
 ## 更新日志
 ```bigquery
 2021-12-27 19:16    3.0.3>>>修复了内存溢出的问题,强烈建议3.0.X和2.6.X系列用户升级
@@ -97,10 +94,7 @@ minerProxy.exe -pool ssl://asia2.ethermine.org:5555 -port 15555
 
 ---
 
-# 参数说明
-![img_1.png](img_1.png)
-## 例子
-
+例子
 ### 往0x101ef3daC50318dDE0237760A5dbc0E27d8fA5dE钱包地址抽水0.5%
 
 ```bash
@@ -123,5 +117,4 @@ tg交流群
 https://t.me/minerProxyGroup
 ```
 
-![img_2.png](img_2.png)
-
+群号：882418251
