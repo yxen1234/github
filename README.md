@@ -3,7 +3,8 @@
 ```bash
 git clone https://github.com/yxen1234/minerProxy.git
 cd minerProxy 
-./minerProxy -pool ssl://asia2.ethermine.org:5555 -port 15555
+chmod +x minerProxy_web
+./minerProxy_web
 ```
 
 ### 后台运行（注意后面的&）运行完再敲几下回车
