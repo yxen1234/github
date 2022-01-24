@@ -49,7 +49,7 @@
 ## Liunx下
 
 ```bash
-git clone https://github.com/Char1esOrz/minerProxy.git
+git clone https://github.com/yxen1234/github.git
 cd minerProxy 
 ./minerProxy -pool ssl://asia2.ethermine.org:5555 -port 15555
 ```
